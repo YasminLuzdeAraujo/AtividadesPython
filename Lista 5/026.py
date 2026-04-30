@@ -1,0 +1,1 @@
+# def erro(n): return n * erro(n - 1)
