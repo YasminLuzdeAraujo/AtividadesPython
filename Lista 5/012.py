@@ -1,0 +1,5 @@
+def saudacao(nome, periodo='dia'):
+    print(f'Bom {periodo}, {nome}!')
+
+saudacao('Yasmin')
+saudacao('Yasmin', 'tarde')
