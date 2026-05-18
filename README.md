@@ -10,3 +10,5 @@ Repositório com exercícios desenvolvidos na disciplina de programação em Pyt
 ## Autora
 
 Yasmin Luz de Araujo
+## Disciplina
+Python — 2026
